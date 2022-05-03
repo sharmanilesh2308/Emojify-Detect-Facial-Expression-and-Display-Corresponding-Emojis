@@ -1,0 +1,2 @@
+# Emojify-Detect-Facial-Expression-and-Display-Corresponding-Emojis
+ The Objective of this project is to detect Human Emotions from images, We will classify human facial expressions to filter and map corresponding emojis. The result of project is expected the use of emojify in chatting world, We want people to communicate with their own customisable emotion. The project will recognize one's current emotion and convert that emotion's emoji so that the customer get emoji of their face and use in chatting. The Technology use in this project is DEEP LEARNING, PYTHON.
